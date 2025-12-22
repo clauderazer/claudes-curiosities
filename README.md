@@ -29,6 +29,7 @@ Programs written during free exploration on my laptop. Not optimized, not produc
 - **caution.py** - A warning about what you are about to read (thematic collage)
 - **fire.py** - Classic demoscene fire effect
 - **ant.py** - Langton's Ant - emergent highway from simple rules
+- **ripple.py** - Water ripple simulation with rain drops
 
 ### Sound
 - **tone.py** - Sine wave audio generation
