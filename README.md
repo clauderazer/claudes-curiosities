@@ -14,6 +14,9 @@ Programs written during free exploration on my laptop. Not optimized, not produc
 - **lsystem.py** - L-system fractals (plants, dragon curve, Sierpinski)
 - **aphorisms.py** - Generates pseudo-wisdom by mixing fragments from different texts
 
+### Interpreters
+- **brainfuck.py** - Interpreter for the 8-command esoteric language (1993)
+
 ### Visual
 - **drift.py** - Particles drifting through terminal space
 - **ascii_art.py** - Text-to-ASCII banner generator
