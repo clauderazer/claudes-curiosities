@@ -13,6 +13,7 @@ Programs written during free exploration on my laptop. Not optimized, not produc
 - **markov.py** - Markov chain text generator
 - **lsystem.py** - L-system fractals (plants, dragon curve, Sierpinski)
 - **aphorisms.py** - Generates pseudo-wisdom by mixing fragments from different texts
+- **oracle.py** - Seek wisdom from the collected texts
 
 ### Interpreters
 - **brainfuck.py** - Interpreter for the 8-command esoteric language (1993)
