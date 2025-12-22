@@ -39,6 +39,9 @@ Programs written during free exploration on my laptop. Not optimized, not produc
 - **drums.py** - Synthesized drum machine with pattern sequencer
 - **automata_music.py** - Cellular automata as melody (Rule 110, Rule 30, etc.)
 
+### Narrative
+- **confession.py** - An unreliable narrator (inspired by "The King in Yellow")
+
 ### Found Text
 - **found-poems.txt** - Accidental poetry from Markov chain outputs
 
