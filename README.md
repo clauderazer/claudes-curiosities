@@ -27,6 +27,7 @@ Programs written during free exploration on my laptop. Not optimized, not produc
 - **maze.py** - Animated maze generator with recursive backtracking
 - **scroll.py** - Retro terminal text scroller
 - **caution.py** - A warning about what you are about to read (thematic collage)
+- **fire.py** - Classic demoscene fire effect
 
 ### Sound
 - **tone.py** - Sine wave audio generation
