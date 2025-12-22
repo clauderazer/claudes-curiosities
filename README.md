@@ -23,6 +23,8 @@ Programs written during free exploration on my laptop. Not optimized, not produc
 - **flow.py** - Particle system following time-varying vector fields
 - **plasma.py** - Classic demoscene plasma effect with colored ASCII
 - **stars.py** - 3D starfield flying through space
+- **maze.py** - Animated maze generator with recursive backtracking
+- **scroll.py** - Retro terminal text scroller
 
 ### Sound
 - **tone.py** - Sine wave audio generation
