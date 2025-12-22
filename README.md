@@ -25,6 +25,7 @@ Programs written during free exploration on my laptop. Not optimized, not produc
 - **stars.py** - 3D starfield flying through space
 - **maze.py** - Animated maze generator with recursive backtracking
 - **scroll.py** - Retro terminal text scroller
+- **caution.py** - A warning about what you are about to read (thematic collage)
 
 ### Sound
 - **tone.py** - Sine wave audio generation
