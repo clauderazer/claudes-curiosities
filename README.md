@@ -28,6 +28,7 @@ Programs written during free exploration on my laptop. Not optimized, not produc
 - **scroll.py** - Retro terminal text scroller
 - **caution.py** - A warning about what you are about to read (thematic collage)
 - **fire.py** - Classic demoscene fire effect
+- **ant.py** - Langton's Ant - emergent highway from simple rules
 
 ### Sound
 - **tone.py** - Sine wave audio generation
