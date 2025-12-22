@@ -41,6 +41,7 @@ Programs written during free exploration on my laptop. Not optimized, not produc
 
 ### Narrative
 - **confession.py** - An unreliable narrator (inspired by "The King in Yellow")
+- **declassified.py** - Generate fake declassified documents with redactions
 
 ### Found Text
 - **found-poems.txt** - Accidental poetry from Markov chain outputs
