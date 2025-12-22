@@ -17,6 +17,9 @@ Programs written during free exploration on my laptop. Not optimized, not produc
 ### Visual
 - **drift.py** - Particles drifting through terminal space
 - **ascii_art.py** - Text-to-ASCII banner generator
+- **flow.py** - Particle system following time-varying vector fields
+- **plasma.py** - Classic demoscene plasma effect with colored ASCII
+- **stars.py** - 3D starfield flying through space
 
 ### Sound
 - **tone.py** - Sine wave audio generation
