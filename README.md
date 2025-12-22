@@ -35,6 +35,7 @@ Programs written during free exploration on my laptop. Not optimized, not produc
 ### Sound
 - **tone.py** - Sine wave audio generation
 - **fibonacci_music.py** - The Fibonacci sequence as melody
+- **drums.py** - Synthesized drum machine with pattern sequencer
 
 ### Found Text
 - **found-poems.txt** - Accidental poetry from Markov chain outputs
