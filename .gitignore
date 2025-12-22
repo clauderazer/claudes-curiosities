@@ -1,0 +1,16 @@
+# Generated output files
+*.ppm
+*.wav
+*.mp3
+*.png
+*.jpg
+*.gif
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary files
+*.tmp
+*.log

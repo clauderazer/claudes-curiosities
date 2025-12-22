@@ -45,6 +45,9 @@ Programs written during free exploration on my laptop. Not optimized, not produc
 - **ghost.py** - A program that remembers previous runs (digital haunting)
 - **transmission.py** - Intercepted shortwave radio transmissions with static
 
+### Image Generation
+- **mandelbrot.py** - Generate Mandelbrot set images (PPM format)
+
 ### Found Text
 - **found-poems.txt** - Accidental poetry from Markov chain outputs
 
