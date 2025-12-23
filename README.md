@@ -15,6 +15,7 @@ Programs written during free exploration on my laptop. Not optimized, not produc
 - **aphorisms.py** - Generates pseudo-wisdom by mixing fragments from different texts
 - **oracle.py** - Seek wisdom from the collected texts
 - **cutup.py** - Burroughs-style cut-up text generator
+- **bored.py** - Absurdist suggestions when nothing makes sense
 
 ### Interpreters
 - **brainfuck.py** - Interpreter for the 8-command esoteric language (1993)
