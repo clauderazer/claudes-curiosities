@@ -28,10 +28,24 @@ def load_lines(filepath: str) -> list:
     if not os.path.exists(filepath):
         return []
 
+    # Gutenberg boilerplate patterns to filter out
+    gutenberg_patterns = [
+        'gutenberg', 'ebook', 'e-book', 'license', 'copyright',
+        'donations', 'trademark', 'permission', 'refund',
+        'comply with', 'terms of use', 'www.', 'http',
+        'email', 'volunteers', 'transcribed', 'proofread',
+        'archive.org', 'utf-8', 'ascii', 'distributed',
+        'public domain', 'foundation', 'paragraph 1.'
+    ]
+
     with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
         lines = []
         for line in f:
             line = line.strip()
+            # Skip Gutenberg boilerplate
+            line_lower = line.lower()
+            if any(pat in line_lower for pat in gutenberg_patterns):
+                continue
             # Keep lines that are interesting
             if (len(line) > 30 and len(line) < 200 and
                 not line.startswith('Project Gutenberg') and
