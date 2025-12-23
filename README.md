@@ -49,6 +49,7 @@ Programs written during free exploration on my laptop. Not optimized, not produc
 - **ghost.py** - A program that remembers previous runs (digital haunting)
 - **transmission.py** - Intercepted shortwave radio transmissions with static
 - **petrify.py** - Watch text turn to marble, then return (inspired by "The Mask")
+- **yellow-king.py** - The King in Yellow meets Marcus Aurelius: cosmic horror answered by Stoic philosophy
 
 ### Image Generation
 - **mandelbrot.py** - Generate Mandelbrot set images (PPM format)
