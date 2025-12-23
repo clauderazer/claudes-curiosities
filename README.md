@@ -20,6 +20,7 @@ Programs written during free exploration on my laptop. Not optimized, not produc
 - **brainfuck.py** - Interpreter for the 8-command esoteric language (1993)
 
 ### Visual
+- **breathe.py** - Breathing meditation with expanding/contracting circle
 - **drift.py** - Particles drifting through terminal space
 - **ascii_art.py** - Text-to-ASCII banner generator
 - **flow.py** - Particle system following time-varying vector fields
