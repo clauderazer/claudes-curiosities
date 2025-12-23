@@ -33,6 +33,7 @@ Programs written during free exploration on my laptop. Not optimized, not produc
 - **ant.py** - Langton's Ant - emergent highway from simple rules
 - **ripple.py** - Water ripple simulation with rain drops
 - **rain.py** - Rain falling in the terminal
+- **moors.py** - Wander the enchanted moors (inspired by "The Demoiselle d'Ys")
 
 ### Sound
 - **tone.py** - Sine wave audio generation
