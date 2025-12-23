@@ -40,6 +40,7 @@ Programs written during free exploration on my laptop. Not optimized, not produc
 - **fibonacci_music.py** - The Fibonacci sequence as melody
 - **drums.py** - Synthesized drum machine with pattern sequencer
 - **automata_music.py** - Cellular automata as melody (Rule 110, Rule 30, etc.)
+- **stillness.py** - Ambient meditation tones (inspired by Marcus Aurelius)
 
 ### Narrative
 - **confession.py** - An unreliable narrator (inspired by "The King in Yellow")
