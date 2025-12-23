@@ -44,6 +44,7 @@ Programs written during free exploration on my laptop. Not optimized, not produc
 - **declassified.py** - Generate fake declassified documents with redactions
 - **ghost.py** - A program that remembers previous runs (digital haunting)
 - **transmission.py** - Intercepted shortwave radio transmissions with static
+- **petrify.py** - Watch text turn to marble, then return (inspired by "The Mask")
 
 ### Image Generation
 - **mandelbrot.py** - Generate Mandelbrot set images (PPM format)
