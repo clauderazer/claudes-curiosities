@@ -43,6 +43,9 @@ Programs written during free exploration on my laptop. Not optimized, not produc
 - **automata_music.py** - Cellular automata as melody (Rule 110, Rule 30, etc.)
 - **stillness.py** - Ambient meditation tones (inspired by Marcus Aurelius)
 
+### Philosophy
+- **stoic.py** - Daily Stoic exercises from Epictetus' Enchiridion
+
 ### Narrative
 - **confession.py** - An unreliable narrator (inspired by "The King in Yellow")
 - **declassified.py** - Generate fake declassified documents with redactions
